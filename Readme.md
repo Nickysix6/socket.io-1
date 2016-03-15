@@ -1,5 +1,6 @@
 
 # socket.io
+chat example is running on https://fathomless-beyond-58796.herokuapp.com/ 
 
 [![Build Status](https://secure.travis-ci.org/socketio/socket.io.svg)](https://travis-ci.org/socketio/socket.io)
 [![Dependency Status](https://david-dm.org/socketio/socket.io.svg)](https://david-dm.org/socketio/socket.io)
